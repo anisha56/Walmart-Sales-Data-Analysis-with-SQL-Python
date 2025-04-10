@@ -1,0 +1,4 @@
+my_env1\Scripts\activate
+kaggle dataset download -d najir0123/walmart-10k-sales-datasets
+tar -xf walmart-10k-sales-datasets.zip
+pip install pandas
